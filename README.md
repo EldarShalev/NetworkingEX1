@@ -1,2 +1,2 @@
 # NetworkingEX1
-simple client-server in python with UDP connection
+simple client-server using UDP connection
