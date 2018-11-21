@@ -1,2 +1,2 @@
 # NetworkingEX1
-simple client-server using UDP connection
+Simple client-server using UDP connection
